@@ -14,7 +14,7 @@
 - [🧠 Загальний опис та ідея](#general-overview)
 - [📖 Головний словник термінів](#terms)
 - [🧩 Головна ідея бізнес логіки](#business-logic)
-- [ Робочий WorkFlows](#workflows)
+- [⚙️ Робочий WorkFlows](#workflows)
 
 - [🗂 Структура бізнес процесу](#business-process-structure)
   - [🧾 Структура ліда](#lead-structure)
