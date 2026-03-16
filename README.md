@@ -323,7 +323,7 @@
 
 # 📋 Структура загальної таблиці
 
-[Загальна таблиця](https://github.com/JohnGrey17/CRM-docs/blob/main/%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8F.png)
+![Загальна таблиця](https://github.com/JohnGrey17/CRM-docs/blob/main/%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8F.png?raw=true)
 
 У таблиці відображаються всі процеси.
 
@@ -337,6 +337,6 @@
 
 Також є ожливісті перемикання на CRM режим в якому між етапами можна просто перетягувати завдання.
 
-[CRM режим](https://github.com/JohnGrey17/CRM-docs/blob/main/CRM.png)
+![CRM режим](https://github.com/JohnGrey17/CRM-docs/blob/main/CRM.png?raw=true)
 
 ⬆️ [Назад до змісту](#toc)
